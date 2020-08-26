@@ -1,0 +1,30 @@
+body {
+    background-color: green;
+}
+
+.cont:hover {
+    scale: 1;
+}
+
+.abou:hover {
+    background-color:black;
+}
+
+.port:hover {
+    color: red;
+    transform: translate(50px, 100px);
+}
+
+.abou {
+    color: green;
+}
+
+.about:hover {
+    font-size: x-large;
+    color: hotpink;
+}
+
+
+
+/* Your task is to create transitions for the li element for "Contact Information", "About", and "Portfolio" 
+to scale up in size(transform) when hovered on and to increase font-size when clicked on(Animations). */
