@@ -1,7 +1,3 @@
-body{
-  background-color: cadetblue;
-}
-
 .port{
   transform: translate(0px,0px);
   background-color: whitesmoke;
@@ -12,13 +8,22 @@ body{
 .cont{
   transform: skew(0deg);
 }
-.cont:hover{
-  transform: skew(50deg);
-
-}
 .abou{
   transform: scaleY(1);
 }
 .abou:hover{
   transform: scaleY(4.5);
 }
+
+body {
+    background-color: green;
+}
+
+.cont:hover {
+    scale: 1;
+}
+
+.abou {
+    color: green;
+}
+
