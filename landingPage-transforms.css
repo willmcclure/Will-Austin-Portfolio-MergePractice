@@ -7,18 +7,18 @@ body{
   background-color: whitesmoke;
 }
 .port:hover{
-  transform: translate(50px,100px);
+  transform: translate(100px,100px);
 }
 .cont{
   transform: skew(0deg);
 }
 .cont:hover{
-  transform: skew(20deg);
+  transform: skew(50deg);
 
 }
 .abou{
   transform: scaleY(1);
 }
 .abou:hover{
-  transform: scaleY(2.5);
+  transform: scaleY(4.5);
 }
